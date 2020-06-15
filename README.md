@@ -2,7 +2,5 @@
 php_2182517
  
 # nam
-nam
 
 # adidas
-adidas
