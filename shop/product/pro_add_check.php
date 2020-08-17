@@ -9,8 +9,8 @@
 <?php
 
  
-$pro_name=$_POST['name'];
-$pro_price=$_POST['price'];
+$pro_name=$post['name'];
+$pro_price=$post['price'];
 $pro_gazou=$_FILES['gazou'];
  
 $pro_name=htmlspecialchars($pro_name);

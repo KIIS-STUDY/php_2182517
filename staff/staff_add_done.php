@@ -8,9 +8,16 @@
 
 <?php
 
-try{
-$staff_name = $_POST['name'];
-$staff_pass = $_POST['pass'];
+
+require_once ('../shop/common/common.php');
+
+$post = sanitize ($_POST);
+try
+{
+
+
+$staff_name = $post['name'];
+$staff_pass = $post['pass'];
 
 $staff_name = htmlspecialchars($staff_name);
 $staff_pass = htmlspecialchars($staff_pass);

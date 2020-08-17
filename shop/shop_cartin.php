@@ -31,7 +31,7 @@ else
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>ユビーネット</title>
+  <title>ろくまる農園</title>
 </head>
 <body>
 

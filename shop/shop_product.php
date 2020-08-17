@@ -29,7 +29,7 @@ if (isset ($_SESSION['member_login']) == false){
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>ユビーネット</title>
+  <title>ろくまる農園</title>
 </head>
 <body>
 
